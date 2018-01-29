@@ -3,7 +3,7 @@ The Repository contains a python code that generates List ofActive Nodes in a gi
 nodelist is the list of all the nodes and contains both IP and MAC addresses  
 liveIPs is the list of all IPs that are active  
 
-Other things to be implemented
+Other things to be implemented - 
 
 >>>Top
 >>>Iftop
@@ -20,3 +20,4 @@ Other things to be implemented
 >>> lsusb
 >>> nslookup
 >>> lshw
+>>>psutil
